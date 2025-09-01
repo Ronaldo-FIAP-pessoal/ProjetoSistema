@@ -5,7 +5,6 @@ const Nav = () => {
   return (
     <header>
       <nav>
-        <img src={Logo} alt="logo"/>
         <ul>
           <li>
             <Link to="/">Home</Link>
