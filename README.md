@@ -60,3 +60,6 @@ export default defineConfig({
 dentro do index.css  adicione a linha
 
 @import "tailwindcss";
+
+//Icones
+https://react-icons.github.io/react-icons/
